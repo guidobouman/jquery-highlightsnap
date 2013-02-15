@@ -16,7 +16,7 @@ if ( typeof Object.create !== 'function' )
  * Requires:
  * - jQuery 1.7.1 or higher (Works with the API changes from 1.9.1 too)
  *
- * https://github.com/guidobouman/jquery-plugin-boilerplate
+ * https://github.com/guidobouman/jquery-highlightsnap
  *
  * Copyright 2013, Guido Bouman
  *
