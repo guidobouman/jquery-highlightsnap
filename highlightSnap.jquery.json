@@ -1,0 +1,39 @@
+{
+  "name": "highlightSnap",
+  "title": "jQuery highlightSnap",
+  "description": "A jQuery plugin that provides a snapping highlight for menus.",
+  "keywords": [
+    "snap",
+    "snapping",
+    "element",
+    "elements",
+    "highlight",
+    "menu",
+    "menus"
+  ],
+  "version": "0.1.0",
+  "author": {
+    "name": "Guido Bouman",
+    "url": "http://guido.vc/"
+  },
+  "maintainers": [
+    {
+      "name": "Guido Bouman",
+      "email": "m@guido.vc",
+      "url": "http://guido.vc/"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/guidobouman/jquery-highlightsnap/blob/master/LICENSE"
+    }
+  ],
+  "bugs": "https://github.com/guidobouman/jquery-highlightsnap/issues",
+  "homepage": "http://guidobouman.github.io/jquery-highlightsnap",
+  "docs": "https://github.com/guidobouman/jquery-highlightsnap",
+  "download": "https://github.com/guidobouman/jquery-highlightsnap",
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
