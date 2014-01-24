@@ -1,0 +1,24 @@
+{
+  "name": "highlightsnap",
+  "version": "0.1.0",
+  "main": "jquery.highlightSnap.js",
+  "description": "A jQuery plugin that provides a snapping highlight for menus.",
+  "keywords": [
+    "snap",
+    "snapping",
+    "element",
+    "elements",
+    "highlight",
+    "menu",
+    "menus",
+    ""
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
