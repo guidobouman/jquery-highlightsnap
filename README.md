@@ -1,6 +1,5 @@
 # jQuery.highlightSnap [![Build Status](https://travis-ci.org/guidobouman/jquery-highlightsnap.png)](https://travis-ci.org/guidobouman/jquery-highlightsnap)
-
-A jQuery plugin that provides a snapping highlight for menu's.
+A jQuery plugin that provides a snapping highlight for menu's. Based on [jQuery Plugin Boilerplate](https://github.com/guidobouman/jquery-plugin-boilerplate).
 
 # Demo
-A working development version of the code can be seen at [http://dev.guido.vc/]
+Check out the demos folder for a working demo that explains most of the features present in the plugin.
